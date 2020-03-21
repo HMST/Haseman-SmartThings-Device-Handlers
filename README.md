@@ -4,7 +4,7 @@
 
 &nbsp; &nbsp;This repository contains [Haseman](http://www.haseman-electric.com) Z-Wave DIN modules device handlers. They are compatible with Classic App of Samsung's [SmartThings](http://www.smartthings.com) home automation platform.
 
-#### Part One: Install the code using the SmartThings IDE
+#### Step One: Install the code using the SmartThings IDE
 
 1. Within the SmartThings IDE, click '*My SmartApps*', then '*+ New SmartApp*'. 
 2. Select the '*From Code*' tab and paste in the contents of the relevant groovy file.
@@ -14,9 +14,9 @@
 
 ## Device Handlers
 
-#### [Aeon Home Energy Meter (GEN2 - UK - 1 Clamp)](https://github.com/codersaur/SmartThings/tree/master/devices/aeon-home-energy-meter):
- - This device handler is written specifically for the Aeon Home Energy Meter Gen2 UK version, with a single clamp.
- - It supports live reporting of energy, power, current, and voltage, as well as energy and cost statistics over multiple pre-defined periods.
+#### [Haseman RS-10PM2 - Z-Wave, DIN Rail, 10-Channel Relay Module with Power Meter)](http://www.haseman-electric.com/downloads/Haseman_RS-10PM2_Manual.pdf):
+ - This device handler is compatible with Haseman RS-10PM2
+ - It supports control of 10x Relay Switches and live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf].
 
 #### [Evohome Heating Zone - BETA](https://github.com/codersaur/SmartThings/tree/master/devices/evohome):
  - This device handler is required for the Evohome (Connect) SmartApp.
