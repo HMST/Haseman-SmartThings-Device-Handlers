@@ -19,7 +19,9 @@
  - Support live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf]
  - Support all availbale device parameters synchronisation
  
- <img src="http://www.haseman-electric.com/downloads/RS-10PM2.png" width="200"> &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/codersaur/SmartThings/master/devices/fibaro-dimmer-2/screenshots/fd2-ss-tiles-on.png" width="200">
+ <img src="http://www.haseman-electric.com/downloads/RS-10PM2.png" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="https://raw.githubusercontent.com/codersaur/SmartThings/master/devices/fibaro-dimmer-2/screenshots/fd2-ss-tiles-on.png" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="https://raw.githubusercontent.com/codersaur/SmartThings/master/devices/fibaro-dimmer-2/screenshots/fd2-ss-tiles-on.png" width="200">
 
 #### [Evohome Heating Zone - BETA](https://github.com/codersaur/SmartThings/tree/master/devices/evohome):
  - This device handler is required for the Evohome (Connect) SmartApp.
