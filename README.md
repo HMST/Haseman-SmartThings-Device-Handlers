@@ -14,9 +14,12 @@
 
 ## Device Handlers
 
-#### [Haseman RS-10PM2 - Z-Wave, DIN Rail, 10-Channel Relay Module with Power Meter)](http://www.haseman-electric.com/downloads/Haseman_RS-10PM2_Manual.pdf):
- - This device handler is compatible with Haseman RS-10PM2
- - It supports control of 10x Relay Switches and live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf].
+#### [Haseman RS-10PM2 Z-Wave, DIN Rail, 10-Channel Relay Module with Power Meter](http://www.haseman-electric.com/downloads/Haseman_RS-10PM2_Manual.pdf):
+ - Support control of 10x Relay Switches
+ - Support live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf]
+ - Support all availbale device parameters synchronisation
+ 
+ <img src="http://www.haseman-electric.com/downloads/RS-10PM2.png" width="200">
 
 #### [Evohome Heating Zone - BETA](https://github.com/codersaur/SmartThings/tree/master/devices/evohome):
  - This device handler is required for the Evohome (Connect) SmartApp.
