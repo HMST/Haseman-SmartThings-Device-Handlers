@@ -21,6 +21,6 @@
  - Support live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf]
  - Support all availbale device parameters synchronisation
  
- <img src="http://www.haseman-electric.com/downloads/RS-10PM2.png" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- <img src="https://raw.githubusercontent.com/codersaur/SmartThings/master/devices/fibaro-dimmer-2/screenshots/fd2-ss-tiles-on.png" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- <img src="https://raw.githubusercontent.com/codersaur/SmartThings/master/devices/fibaro-dimmer-2/screenshots/fd2-ss-tiles-on.png" width="200">
+ <img src="https://user-images.githubusercontent.com/60615773/86036694-ee7f0400-ba46-11ea-9162-2446d9d91f49.png"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="https://user-images.githubusercontent.com/60615773/86036248-45d0a480-ba46-11ea-92c7-1071577e368a.png" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="https://user-images.githubusercontent.com/60615773/86036420-829c9b80-ba46-11ea-9fbe-77a0e05a3a40.png" width="200">
