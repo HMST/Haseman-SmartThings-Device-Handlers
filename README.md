@@ -22,6 +22,6 @@
  - Support all availbale device parameters synchronisation
  
  <a href = "https://www.youtube.com/watch?v=seDfhFRkkmM" target="_blank">
- <img src="https://user-images.githubusercontent.com/60615773/86116042-77dd1780-bad5-11ea-9378-a4a53a7fa843.jpg" width="250">&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="https://user-images.githubusercontent.com/60615773/86117820-61848b00-bad8-11ea-8b3e-437b61403e4f.jpg" width="250">&nbsp; &nbsp; &nbsp; &nbsp;
  <img src="https://user-images.githubusercontent.com/60615773/86036248-45d0a480-ba46-11ea-92c7-1071577e368a.png" width="250">&nbsp; &nbsp; &nbsp; &nbsp;
  <img src="https://user-images.githubusercontent.com/60615773/86037341-e70c2a80-ba47-11ea-9ae1-efc35c67d417.png" width="250">
