@@ -21,11 +21,13 @@
  - Support live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf]
  - Support all availbale device parameters synchronisation
  
- <a href = "https://www.youtube.com/watch?v=seDfhFRkkmM" target="_blank"><img src="https://user-images.githubusercontent.com/60615773/86120445-fbe6cd80-badc-11ea-96c8-b19a57d3e1c3.jpg" width="250"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86036248-45d0a480-ba46-11ea-92c7-1071577e368a.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86037341-e70c2a80-ba47-11ea-9ae1-efc35c67d417.png" width="250">
+ <a href = "https://www.youtube.com/watch?v=seDfhFRkkmM" target="_blank"><img src="https://user-images.githubusercontent.com/60615773/86120445-fbe6cd80-badc-11ea-96c8-b19a57d3e1c3.jpg" width="250"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86036248-45d0a480-ba46-11ea-92c7-1071577e368a.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86037341-e70c2a80-ba47-11ea-9ae1-efc35c67d417.png" width="250">
+ 
+ <br><br>
  
  #### [Haseman R4D4 - Z-Wave, DIN Rail,4 RELAY and 4 UNIVERSAL DIMMER channels](http://www.haseman-electric.com/downloads/Haseman_R4D4_Manual.pdf):
  - Support control of 4x Dimmer Channels and 4x Relay Switches
  - Support configuration of Trailing/Leading Edge mode and Switch Type 
  - Support all availbale device parameters synchronisation
  
- <a href = "https://www.youtube.com/watch?v=seDfhFRkkmM" target="_blank"><img src="https://user-images.githubusercontent.com/60615773/86120505-191b9c00-badd-11ea-9cd2-f87599dc196e.jpg" width="250"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86036248-45d0a480-ba46-11ea-92c7-1071577e368a.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86037341-e70c2a80-ba47-11ea-9ae1-efc35c67d417.png" width="250">
+ <a href = "https://www.youtube.com/watch?v=seDfhFRkkmM" target="_blank"><img src="https://user-images.githubusercontent.com/60615773/86120505-191b9c00-badd-11ea-9cd2-f87599dc196e.jpg" width="250"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86036248-45d0a480-ba46-11ea-92c7-1071577e368a.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86037341-e70c2a80-ba47-11ea-9ae1-efc35c67d417.png" width="250">
