@@ -21,8 +21,8 @@
  - Support live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf]
  - Support all availbale device parameters synchronisation
  
- <img src="https://user-images.githubusercontent.com/60615773/86036694-ee7f0400-ba46-11ea-9162-2446d9d91f49.png" width="300"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- <img src="https://user-images.githubusercontent.com/60615773/86036248-45d0a480-ba46-11ea-92c7-1071577e368a.png" width="300"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- <img src="https://user-images.githubusercontent.com/60615773/86037341-e70c2a80-ba47-11ea-9ae1-efc35c67d417.png" width="300">
+ <img src="https://user-images.githubusercontent.com/60615773/86036694-ee7f0400-ba46-11ea-9162-2446d9d91f49.png" width="250"> &nbsp; &nbsp;
+ <img src="https://user-images.githubusercontent.com/60615773/86036248-45d0a480-ba46-11ea-92c7-1071577e368a.png" width="250"> &nbsp; &nbsp;
+ <img src="https://user-images.githubusercontent.com/60615773/86037341-e70c2a80-ba47-11ea-9ae1-efc35c67d417.png" width="250">
  <img src="https://img.youtube.com/vi/seDfhFRkkmM/0.jpg" width="200"> <a href = "https://www.youtube.com/watch?v=seDfhFRkkmM" target="_blank">
 
