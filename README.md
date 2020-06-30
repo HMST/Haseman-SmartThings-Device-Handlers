@@ -2,7 +2,7 @@
 
 ## Overview
 
-&nbsp; &nbsp;This repository contains [Haseman](http://www.haseman-electric.com) Z-Wave DIN modules device handlers. They are compatible with Classic App of Samsung's [SmartThings](http://www.smartthings.com) home automation platform.
+&nbsp; &nbsp;This repository contains [Haseman](http://www.haseman-electric.com) Z-Wave DIN modules device handlers. They are compatible with <b>Classic App</b> of Samsung's [SmartThings](http://www.smartthings.com) home automation platform.
 
 #### Install the code using the SmartThings IDE
 
@@ -11,8 +11,8 @@
 3. Tab on "New device handler"
 4. Select "From Code" tab and paste in the contents of the relevant groovies files. 
 5. Click "Create".
-6. After import both groovy files you should proceed with iclusion(Add a thing) to Z-wave network (if already done it, just exclude and re-inculde)
-7. Wait for configuration of device and should be ready use it.
+6. After import both groovy files you should proceed with inclusion (Add a thing) to Z-wave network (if already done it, just exclude and re-inculde)
+7. Wait for configuration of device and should be ready to use it.
 
 ## Device Handler
 
