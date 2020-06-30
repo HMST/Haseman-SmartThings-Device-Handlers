@@ -16,7 +16,7 @@
 
 ## Device Handlers
 
-#### [Haseman RS-10PM2 Z-Wave, DIN Rail, 10-Channel Relay Module with Power Meter](http://www.haseman-electric.com/downloads/Haseman_RS-10PM2_Manual.pdf)
+#### [Haseman RS-10PM2 Z-Wave, DIN Rail, 10-Channel Relay Module with Power Meter](https://github.com/HMST/Haseman-Smarthings-Device-Handlers/tree/master/User%20Manuals)
  - Support control of 10x Relay Switches
  - Support live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf]
  - Support all availbale device parameters synchronisation
@@ -25,7 +25,7 @@
 
  <br><br>
  
- #### [Haseman R4D4 - Z-Wave, DIN Rail, 4 RELAY and 4 UNIVERSAL DIMMER channels](http://www.haseman-electric.com/downloads/Haseman_R4D4_Manual.pdf)
+ #### [Haseman R4D4 - Z-Wave, DIN Rail, 4 RELAY and 4 UNIVERSAL DIMMER channels](https://github.com/HMST/Haseman-Smarthings-Device-Handlers/tree/master/User%20Manuals)
  - Support control of 4x Dimmer Channels and 4x Relay Switches
  - Support configuration of Trailing/Leading Edge mode and Switch Type 
  - Support all availbale device parameters synchronisation
@@ -34,7 +34,7 @@
  
  <br><br>
  
- #### [Haseman PRM-10 - Z-Wave, DIN Rail, 10-Channel Power/Energy Meter](http://www.haseman-electric.com/downloads/Haseman_PRM-10_Manual.pdf)
+ #### [Haseman PRM-10 - Z-Wave, DIN Rail, 10-Channel Power/Energy Meter](https://github.com/HMST/Haseman-Smarthings-Device-Handlers/tree/master/User%20Manuals)
  - Support monitoring of 10x Power Metering Channels up to 60A on each clamp
  - Support live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf]
  - Support all availbale device parameters synchronisation
