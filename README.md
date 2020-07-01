@@ -23,6 +23,7 @@
  
  <a href = "https://www.youtube.com/watch?v=seDfhFRkkmM" target="_blank"><img src="https://user-images.githubusercontent.com/60615773/86120445-fbe6cd80-badc-11ea-96c8-b19a57d3e1c3.jpg" width="250"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86036248-45d0a480-ba46-11ea-92c7-1071577e368a.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86037341-e70c2a80-ba47-11ea-9ae1-efc35c67d417.png" width="250">
 
+<!--
  <br><br>
  
  #### [Haseman R4D4 - Z-Wave, DIN Rail, 4 RELAY and 4 UNIVERSAL DIMMER channels](https://github.com/HMST/Haseman-Smarthings-Device-Handlers/tree/master/User%20Manuals)
@@ -40,3 +41,4 @@
  - Support all availbale device parameters synchronisation
  
  <a href = "https://www.youtube.com/watch?v=bwFdAo7oOig&t=93s" target="_blank"><img src="https://user-images.githubusercontent.com/60615773/86123248-cdb7bc80-bae1-11ea-87b5-08a3085b2aa5.jpg" width="250"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86036248-45d0a480-ba46-11ea-92c7-1071577e368a.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/60615773/86037341-e70c2a80-ba47-11ea-9ae1-efc35c67d417.png" width="250">
+-->
