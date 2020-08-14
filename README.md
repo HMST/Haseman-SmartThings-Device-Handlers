@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="1ur7zJfuTVskXQcQmq7hJzPNKXAyiVx5JlhDeJ_KuDM" />
+
 # Haseman-Smarthings-Device-Handlers
 
 ## Overview
