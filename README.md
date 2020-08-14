@@ -1,6 +1,6 @@
-# Haseman-Smarthings-Device-Handlers
+# Haseman-SmartThings-Device-Handlers
 
-https://HMST/Haseman-Smarthings-Device-Handlers 
+https://HMST/Haseman-SmartThings-Device-Handlers 
 
 ## Overview
 
@@ -8,7 +8,7 @@ https://HMST/Haseman-Smarthings-Device-Handlers
 
 #### Install the code using the SmartThings IDE
 
-1. Log in to your Smarthings account
+1. Log in to your SmartThings account
 2. Go to "My device handler" section.
 3. Tab on "New device handler"
 4. Select "From Code" tab and paste in the contents of the relevant groovies files. 
@@ -18,7 +18,7 @@ https://HMST/Haseman-Smarthings-Device-Handlers
 
 ## Device Handlers
 
-#### [Haseman RS-10PM2 Z-Wave, DIN Rail, 10-Channel Relay Module with Power Meter](https://github.com/HMST/Haseman-Smarthings-Device-Handlers/tree/master/User%20Manuals)
+#### [Haseman RS-10PM2 Z-Wave, DIN Rail, 10-Channel Relay Module with Power Meter](https://github.com/HMST/Haseman-SmartThings-Device-Handlers/tree/master/User%20Manuals)
  - Support control of 10x Relay Switches
  - Support live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf]
  - Support all availbale device parameters synchronisation
@@ -28,7 +28,7 @@ https://HMST/Haseman-Smarthings-Device-Handlers
 <!--
  <br><br>
  
- #### [Haseman R4D4 - Z-Wave, DIN Rail, 4 RELAY and 4 UNIVERSAL DIMMER channels](https://github.com/HMST/Haseman-Smarthings-Device-Handlers/tree/master/User%20Manuals)
+ #### [Haseman R4D4 - Z-Wave, DIN Rail, 4 RELAY and 4 UNIVERSAL DIMMER channels](https://github.com/HMST/Haseman-SmartThings-Device-Handlers/tree/master/User%20Manuals)
  - Support control of 4x Dimmer Channels and 4x Relay Switches
  - Support configuration of Trailing/Leading Edge mode and Switch Type 
  - Support all availbale device parameters synchronisation
@@ -37,7 +37,7 @@ https://HMST/Haseman-Smarthings-Device-Handlers
  
  <br><br>
  
- #### [Haseman PRM-10 - Z-Wave, DIN Rail, 10-Channel Power/Energy Meter](https://github.com/HMST/Haseman-Smarthings-Device-Handlers/tree/master/User%20Manuals)
+ #### [Haseman PRM-10 - Z-Wave, DIN Rail, 10-Channel Power/Energy Meter](https://github.com/HMST/Haseman-SmartThings-Device-Handlers/tree/master/User%20Manuals)
  - Support monitoring of 10x Power Metering Channels up to 60A on each clamp
  - Support live reporting of Energy[KW/H], Power[W], Current[A], Voltage[V], Frequency[HZ] and PF[cosf]
  - Support all availbale device parameters synchronisation
